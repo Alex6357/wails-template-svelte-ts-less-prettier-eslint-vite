@@ -8,3 +8,6 @@ bun.lockb
 
 # Miscellaneous
 /static/
+
+# Wails Generated Files
+wailsjs/
